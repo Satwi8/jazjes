@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "web-midi-api": "^2.2.9"
+  }
+}
